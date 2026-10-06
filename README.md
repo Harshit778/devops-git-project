@@ -45,4 +45,7 @@ feature/project-documentation
              | Pull Request
              v
            main
+## Project Status
+
+This project is being developed using Git and GitHub best practices.
 
